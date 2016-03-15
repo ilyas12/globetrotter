@@ -1,0 +1,82 @@
+[03-Mar-2016 17:51:52 America/Denver] PHP Notice:  Undefined index: Name in /home3/globetr7/public_html/unpublished/order.php on line 6
+[04-Mar-2016 10:16:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, resource given in /home3/globetr7/public_html/unpublished/logincheck.php on line 24
+[04-Mar-2016 11:09:26 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home3/globetr7/public_html/unpublished/home.php on line 31
+[04-Mar-2016 11:09:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home3/globetr7/public_html/unpublished/home.php on line 31
+[04-Mar-2016 11:31:37 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/gtv.php on line 48
+[03-Mar-2016 21:35:08 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/header.php on line 793
+[03-Mar-2016 21:36:17 America/Denver] PHP Parse error:  syntax error, unexpected ''membersign' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home3/globetr7/public_html/unpublished/header.php on line 553
+[03-Mar-2016 21:37:38 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/header.php on line 540
+[03-Mar-2016 21:40:25 America/Denver] PHP Parse error:  syntax error, unexpected '?' in /home3/globetr7/public_html/unpublished/header.php on line 470
+[03-Mar-2016 21:47:32 America/Denver] PHP Parse error:  syntax error, unexpected ''members' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home3/globetr7/public_html/unpublished/header.php on line 697
+[03-Mar-2016 21:55:50 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/header.php on line 587
+[03-Mar-2016 22:12:50 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/header.php on line 810
+[04-Mar-2016 02:13:39 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/header.php on line 868
+[04-Mar-2016 02:21:34 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/header.php on line 624
+[04-Mar-2016 02:22:52 America/Denver] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home3/globetr7/public_html/unpublished/header.php on line 624
+[05-Mar-2016 11:52:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, resource given in /home3/globetr7/public_html/unpublished/logincheck.php on line 24
+[05-Mar-2016 11:52:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, resource given in /home3/globetr7/public_html/unpublished/logincheck.php on line 24
+[05-Mar-2016 18:02:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, resource given in /home3/globetr7/public_html/unpublished/logincheck.php on line 24
+[05-Mar-2016 18:56:43 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[05-Mar-2016 18:58:15 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[05-Mar-2016 19:20:15 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[05-Mar-2016 19:20:29 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[07-Mar-2016 14:34:15 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[07-Mar-2016 14:39:51 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[07-Mar-2016 14:40:20 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[07-Mar-2016 14:40:56 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[07-Mar-2016 14:45:41 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[07-Mar-2016 14:49:31 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[07-Mar-2016 14:51:08 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[07-Mar-2016 16:36:03 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[07-Mar-2016 19:16:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/cities-events.php on line 279
+[07-Mar-2016 19:17:00 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/cities-events.php on line 362
+[07-Mar-2016 19:18:30 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/cities-events.php on line 201
+[07-Mar-2016 19:18:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/cities-events.php on line 146
+[07-Mar-2016 20:19:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, resource given in /home3/globetr7/public_html/unpublished/logincheck.php on line 24
+[07-Mar-2016 20:21:40 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[07-Mar-2016 20:25:25 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[07-Mar-2016 20:27:34 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[07-Mar-2016 20:40:18 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[08-Mar-2016 07:00:29 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/cities-events.php on line 369
+[08-Mar-2016 07:07:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/cities-events.php on line 164
+[08-Mar-2016 14:15:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/home.php on line 147
+[08-Mar-2016 14:21:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/home.php on line 308
+[08-Mar-2016 14:24:53 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ' ' in /home3/globetr7/public_html/unpublished/home.php on line 176
+[08-Mar-2016 14:34:51 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/home.php on line 148
+[08-Mar-2016 14:56:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/cities-events.php on line 447
+[08-Mar-2016 15:16:07 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[08-Mar-2016 15:36:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, resource given in /home3/globetr7/public_html/unpublished/logincheck.php on line 24
+[08-Mar-2016 16:42:12 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/cities-events.php on line 407
+[08-Mar-2016 16:53:00 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[08-Mar-2016 17:03:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/news-features.php on line 349
+[08-Mar-2016 17:12:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/news-features.php on line 187
+[08-Mar-2016 17:15:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/news-features.php on line 52
+[08-Mar-2016 17:26:42 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/news-features.php on line 90
+[08-Mar-2016 17:27:41 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/news-features.php on line 367
+[08-Mar-2016 17:31:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/cities-events.php on line 173
+[08-Mar-2016 18:28:34 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[08-Mar-2016 18:30:28 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[08-Mar-2016 18:40:40 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/navigation.php on line 58
+[09-Mar-2016 01:19:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, resource given in /home3/globetr7/public_html/unpublished/logincheck.php on line 24
+[09-Mar-2016 01:32:13 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[09-Mar-2016 10:28:55 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[09-Mar-2016 10:30:29 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[09-Mar-2016 10:34:28 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[10-Mar-2016 09:11:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, resource given in /home3/globetr7/public_html/unpublished/logincheck.php on line 24
+[10-Mar-2016 09:14:12 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[10-Mar-2016 10:40:38 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[10-Mar-2016 10:42:13 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[10-Mar-2016 10:45:35 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, resource given in /home3/globetr7/public_html/unpublished/logincheck.php on line 24
+[10-Mar-2016 11:26:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/cities-events.php on line 439
+[10-Mar-2016 15:45:38 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[10-Mar-2016 20:33:02 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[10-Mar-2016 20:34:48 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[11-Mar-2016 04:40:55 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[11-Mar-2016 04:53:13 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[11-Mar-2016 06:56:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home3/globetr7/public_html/unpublished/news-features.php on line 288
+[11-Mar-2016 06:58:47 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'if($vb['SubTitle']!=""){    ' in /home3/globetr7/public_html/unpublished/news-features.php on line 149
+[12-Mar-2016 17:47:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, resource given in /home3/globetr7/public_html/unpublished/logincheck.php on line 24
+[12-Mar-2016 17:47:28 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[13-Mar-2016 14:44:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, resource given in /home3/globetr7/public_html/unpublished/logincheck.php on line 24
+[13-Mar-2016 14:47:21 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
+[14-Mar-2016 18:46:26 Asia/Jakarta] PHP Warning:  getimagesize(): Filename cannot be empty in /home3/globetr7/public_html/unpublished/photo.php on line 35
